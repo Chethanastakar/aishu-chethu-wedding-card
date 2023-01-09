@@ -12,7 +12,7 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **29th November at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
+inviting you and your family to elder sister's wedding to be held on **11th & 12th February at [Balaji Mantap], Sira, Karnataka from 7:00 PM** onwards.
 
 - [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
 
@@ -29,10 +29,10 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 const newCouple = 'Sonali & Gagan';
 
 // Nov 29, 2020
-const weddingDate = new Date(2020, 11, 29);
+const weddingDate = new Date(2023, 02, 11);
 
 // Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
-const weddingVenue = new Location('Ashirwad Garden, Ranchi');
+const weddingVenue = new Location('Balaji Mantapa, Sira');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
