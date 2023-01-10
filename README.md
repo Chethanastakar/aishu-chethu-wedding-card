@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://sonali.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 29, 2020 <br> <a href="https://sonali.netlify.app/">sonali.netlify.app</a></h1>
+<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 29, 2020 <br> 
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
@@ -8,7 +8,7 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://sonali.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://sonali.netlify.app/"><img src="./assets/img/page1.png" /></a>
 </details>
 
 With the divine grace of the almighty,
@@ -31,8 +31,8 @@ const newCouple = 'Aishwarya & Chethan Kumar';
 // Feb 11th & 12th, 2023
 const weddingDate = new Date(2023, 02, 12);
 
-// Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
-const weddingVenue = new Location('Ashirwad Garden, Ranchi');
+// Wedding venue: https://www.google.com/maps/place/Bhagavan+Sri+Balaji+Kalyana+Mantapa/@13.7431435,76.9046339,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xd41df36fffb088ff!8m2!3d13.7431435!4d76.9046339?coh=164777&entry=tt&shorturl=1
+const weddingVenue = new Location('Balaji Mantapa, Sira');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
