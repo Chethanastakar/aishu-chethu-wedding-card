@@ -12,7 +12,7 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to wedding to be held on **11th Feb at [BHAGAVAN SRI BALAJI KALYANA MANTAPA](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), sira, karnataka from 7:00 PM** onwards.
+inviting you and your family, wedding to be held on **11th Feb at [BHAGAVAN SRI BALAJI KALYANA MANTAPA](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), sira, karnataka from 7:00 PM** onwards.
 
 - [Download](https://github.com/Chethanastakar/aishu-chethu-wedding-card/raw/main/invitation/pdfcard.pdf) the Invitation card
 
