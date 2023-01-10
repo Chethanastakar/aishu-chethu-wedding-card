@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://sonali.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: Feb 11th & 12th, 2023 <br>
+<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 29, 2020 <br> <a href="https://sonali.netlify.app/">sonali.netlify.app</a></h1>
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
@@ -12,27 +12,27 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **11th & 12th February at [Balaji Mantap], Sira, Karnataka from 7:00 PM** onwards.
+inviting you and your family to elder sister's wedding to be held on **29th November at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
 
 - [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
 
 - Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
 
-- Visit the [website](https://sonali.netlify.app/) for more details
+<!-- - Visit the [website](https://sonali.netlify.app/) for more details -->
+<!-- 
+- See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390) -->
 
-- See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
-
-- See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752)
+<!-- - See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752) -->
 
 ```js
 
-const newCouple = 'Sonali & Gagan';
+const newCouple = 'S & Gagan';
 
 // Nov 29, 2020
-const weddingDate = new Date(2023, 02, 11);
+const weddingDate = new Date(2020, 11, 29);
 
 // Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
-const weddingVenue = new Location('Balaji Mantapa, Sira');
+const weddingVenue = new Location('Ashirwad Garden, Ranchi');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
