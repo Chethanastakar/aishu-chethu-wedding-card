@@ -7,4 +7,4 @@
 
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **12th February at [Bhagavan Sri Balaji Kalyana Mantapa](https://goo.gl/maps/BmSZ2f5BkMTHWVabA), Sira, Karnataka.
+inviting you and your family, wedding to be held on **12th February at [Bhagavan Sri Balaji Kalyana Mantapa](https://goo.gl/maps/BmSZ2f5BkMTHWVabA), Sira, Karnataka.
