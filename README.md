@@ -12,9 +12,9 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **29th November at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
+inviting you and your family to wedding to be held on **11th Feb at [BHAGAVAN SRI BALAJI KALYANA MANTAPA](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), sira, karnataka from 7:00 PM** onwards.
 
-- [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
+- [Download](https://github.com/Chethanastakar/aishu-chethu-wedding-card/raw/main/invitation/pdfcard.pdf) the Invitation card
 
 - Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
 
@@ -26,10 +26,10 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 
 ```js
 
-const newCouple = 'S & Gagan';
+const newCouple = 'Aishwarya & Chethan Kumar';
 
-// Nov 29, 2020
-const weddingDate = new Date(2020, 11, 29);
+// Feb 11th & 12th, 2023
+const weddingDate = new Date(2023, 02, 12);
 
 // Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
 const weddingVenue = new Location('Ashirwad Garden, Ranchi');
@@ -55,7 +55,7 @@ To reuse this, follow the steps:
 
 ```js
 // Set the date we're counting down to
-var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
+var countDownDate = new Date("Feb 11, 2020 00:00:00").getTime();
 ```
 
 - *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/vinitshahdeo/Wedding-Invitation/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
