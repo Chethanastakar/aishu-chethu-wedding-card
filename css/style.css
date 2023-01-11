@@ -578,3 +578,12 @@ a {
 	font-size: 12px;
 	letter-spacing: 0pt;
 }
+.bless-couple {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 32px;
+    color: #db2b89;
+    margin: 16px;
+    text-align: center;
+}
