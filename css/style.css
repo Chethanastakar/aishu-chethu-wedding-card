@@ -383,7 +383,7 @@ img {
 	font-family: 'Dancing Script', cursive;
 	font-weight: bold;
 	font-style: normal;
-	font-size: 60px;
+	font-size: 45px;
 	margin: 32px 0;
 	color: #674ea7;
 }
@@ -397,6 +397,16 @@ img {
 	font-size: 24px;
 	color: #e25c67;
 	line-height: 1;
+}
+
+.bless-couple {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bolder;
+	font-style: normal;
+	font-size: 32px;
+	color: #db2b89;
+	margin: 16px;
+	text-align: center;
 }
 
 .dance-med {
@@ -506,19 +516,11 @@ body {
 }
 
 .days {
-	background: linear-gradient(90deg, #b33a46, #9b313c);
+	background: linear-gradient(90deg, #db1428, #6b121b);
 }
 
 .hours {
-	background: linear-gradient(90deg, #a7c3cd, #90a9b2);
-}
-
-.minutes {
-	background-color: #874562;
-}
-
-.seconds {
-	background-color: #145689;
+	background: linear-gradient(90deg, #e9e51b, #7e680a);
 }
 
 .date {
@@ -577,13 +579,4 @@ a {
 	display: flex;
 	font-size: 12px;
 	letter-spacing: 0pt;
-}
-.bless-couple {
-    font-family: 'Dancing Script', cursive;
-    font-weight: bolder;
-    font-style: normal;
-    font-size: 32px;
-    color: #db2b89;
-    margin: 16px;
-    text-align: center;
 }
